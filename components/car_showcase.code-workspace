@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "car_showcase",
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/public"
+		}
+	],
+	"settings": {}
+}
