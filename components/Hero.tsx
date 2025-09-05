@@ -22,9 +22,10 @@ const Hero = () => {
                      />
              </div>
              <div className = "hero__image-container">
-             <div className = "hero__image">
+             <div className = "hero__imagerelative w-[500px] h-[400px] z-10">
      <Image src="/hero.png" alt="hero"
-     fill className="object-contain" /> 
+     fill className="object-contain" 
+     priority/> 
         </div>
      <div className="hero__image-overlay"/>
 
